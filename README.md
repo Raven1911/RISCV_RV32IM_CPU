@@ -33,3 +33,14 @@
 >   * __Value_o_addr__: The value saved in the memories are 32-bit, but our CPU can only ouput 8-bit at a time. Thus, we need to decide which 8-bit are to be read. For example, if value_o_addr = 0, the CPU will output the most signficant 8-bit in the address we assigned.
 > * __Output Ports__:
 >   * __value_o__ : Output value.
+
+# Design Specification
+
+|Spec|Value|
+|:----:|:-----:|
+|Frequency|55MHz|
+|Power|0.161W|
+|Techonlogy| FPGA Arty Z7|
+# Example
+
+# Reference
