@@ -92,3 +92,6 @@
 >![alt text](image/1.png)
 
 # Reference
+> * Stephen Brown, Zvonko Vranesic - Fundamentals of Digital Logic with Verilog Design-McGraw-Hill (2014)
+> * David A. Patterson and John L. Hennessy - Computer Organization and Design: The Hardware/Software Interface RISC-V edition
+> * The RISC-V Instruction Set Manual Volume I: Unprivileged ISA Version 20191213
