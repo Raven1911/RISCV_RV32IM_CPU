@@ -42,6 +42,8 @@
 |Power|0.161W|
 |Board test| FPGA Arty Z7|
 # Example
+
+>Test case:
 ```
 /Initialization // test case instr add, addi, sub, mul
 00000000
@@ -84,5 +86,9 @@
 //end
 11111111
 //end
->```
+```
+>Simmulation result:
+>
+>![alt text](image/1.png)
+
 # Reference
