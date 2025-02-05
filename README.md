@@ -41,7 +41,7 @@
 |Data Memory|0.512 Kbits|
 |Program Memory|2 Kbits|
 |Frequency|55MHz|
-|Power|0.161W|
+|Power|0.168W|
 |Board test| FPGA Arty Z7|
 
 > Summary project
