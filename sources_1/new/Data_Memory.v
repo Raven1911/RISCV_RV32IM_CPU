@@ -42,7 +42,7 @@ module Data_Memory
     output [31:0] data_o;
     output [31:0] data_mem_o;
     
-    reg [7:0] D_memory [0:31];
+    reg [7:0] D_memory [0:63];
     wire [31:0] op;
 
     assign op = {D_memory[addr_i + 3],D_memory[addr_i + 2], D_memory[addr_i + 1],D_memory[addr_i]};
@@ -53,7 +53,7 @@ module Data_Memory
 
     always @(posedge clk_i or negedge reset_n) begin
     
-        if(~reset_n)for(i=0;i<32;i=i+1)D_memory[i] <= 0;
+        if(~reset_n)for(i=0;i<64;i=i+1)D_memory[i] <= 0;
         
         else if(MemWrite_i) begin
                 D_memory[addr_i + 3] <= data_i[31:24];

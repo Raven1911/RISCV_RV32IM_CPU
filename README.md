@@ -38,9 +38,17 @@
 
 |Spec|Value|
 |:----:|:-----:|
+|Data Memory|0.512 Kbits|
+|Program Memory|2 Kbits|
 |Frequency|55MHz|
 |Power|0.161W|
 |Board test| FPGA Arty Z7|
+
+> Summary project
+> 
+> ![alt text](image/3.png)
+> ![alt text](image/4.png)
+> ![alt text](image/2.png)
 # Example
 
 >Test case:
