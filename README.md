@@ -40,7 +40,7 @@
 |:----:|:-----:|
 |Frequency|55MHz|
 |Power|0.161W|
-|Techonlogy| FPGA Arty Z7|
+|Board test| FPGA Arty Z7|
 # Example
 
 # Reference
