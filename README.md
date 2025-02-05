@@ -91,6 +91,12 @@
 >
 >![alt text](image/1.png)
 
+>Implementation on Board:
+>
+>![alt text](image/1.jpg)
+>![alt text](image/2.jpg)
+>![alt text](image/3.jpg)
+
 # Reference
 > * Stephen Brown, Zvonko Vranesic - Fundamentals of Digital Logic with Verilog Design-McGraw-Hill (2014)
 > * David A. Patterson and John L. Hennessy - Computer Organization and Design: The Hardware/Software Interface RISC-V edition
